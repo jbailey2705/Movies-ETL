@@ -12,5 +12,6 @@ For this we'll use the following:
 4. load the data to a PostSQL data base called "movie_data"
 
 ## Resources
+- Data Sources: [wikipedia-movies.json.zip](https://github.com/jbailey2705/Movies-ETL/files/9668534/wikipedia-movies.json.zip),[movies_metadata.csv.zip](https://github.com/jbailey2705/Movies-ETL/files/9668536/movies_metadata.csv.zip),  c
 
-- Data Sources: 
+
