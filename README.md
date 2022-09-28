@@ -26,13 +26,13 @@ We've filtered out TV shows, consolidated the redundant data, removed duplicates
 ### Extract and Transform the Kaggle and rating data
 Consolidated redundant data, removed any duplicates, grouped & formatted the data. Kaggle & rating data were merged with the Wiki movies DataFrame
 
-![Screen Shot 2022-09-28 at 5 31 21 PM](https://user-images.githubusercontent.com/109354592/192902041-a97b0e17-a23a-4baf-9ea8-c22bddb7e0ff.png)
-
 <img width="663" alt="Movies_updated" src="https://user-images.githubusercontent.com/109354592/192901975-58747e5c-d6e3-49f2-a310-4fa010e1be32.png">
 
-![Screen Shot 2022-09-28 at 5 40 18 PM](https://user-images.githubusercontent.com/109354592/192902015-797347c8-9ca8-4048-bf3b-c86d63a82f07.png)
+![Screen Shot 2022-09-28 at 5 31 21 PM](https://user-images.githubusercontent.com/109354592/192902041-a97b0e17-a23a-4baf-9ea8-c22bddb7e0ff.png)
 
 <img width="667" alt="Ratings_updated" src="https://user-images.githubusercontent.com/109354592/192901986-120097c0-e76e-49f2-827e-5b5e0d58b18e.png">
+
+![Screen Shot 2022-09-28 at 5 40 18 PM](https://user-images.githubusercontent.com/109354592/192902015-797347c8-9ca8-4048-bf3b-c86d63a82f07.png)
 
 
 ## Summary
