@@ -16,3 +16,17 @@ For this we'll use the following:
 - Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, PostgreSQL 11.9, pgAdmin 4
 
 ## Results with detail analysis:
+
+### Write an ETL fuction to read 3 data files
+Funciton takes Wikipedia JSON, Kaggle metadata, & MovieLens csv files to create three DataFrames.
+
+### Extract and Transform the Wikipedia data
+We've filtered out TV shows, consolidated the redundant data, removed duplicates & formated the Wiki data.
+
+### Extract and Transform the Kaggle and rating data
+Consolidated redundant data, removed any duplicates, grouped & formatted the data. Kaggle & rating data were merged with the Wiki movies DataFrame
+
+![Screen Shot 2022-09-28 at 5 29 44 PM](https://user-images.githubusercontent.com/109354592/192899939-0198476a-ee9d-4e41-82c4-cc64b384c179.png)
+
+![Screen Shot 2022-09-28 at 5 31 45 PM](https://user-images.githubusercontent.com/109354592/192900145-a9302691-8d86-4631-8234-fdfb06f1cb80.png)
+
