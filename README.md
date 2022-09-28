@@ -11,7 +11,8 @@ For this we'll use the following:
 3. extract & transform the Kaggle and rating data
 4. load the data to a PostSQL data base called "movie_data"
 
-## Resources
-- Data Sources: [wikipedia-movies.json.zip](https://github.com/jbailey2705/Movies-ETL/files/9668534/wikipedia-movies.json.zip),[movies_metadata.csv.zip](https://github.com/jbailey2705/Movies-ETL/files/9668536/movies_metadata.csv.zip),  c
+## Resources:
+- Data Sources: [wikipedia-movies.json.zip](https://github.com/jbailey2705/Movies-ETL/files/9668534/wikipedia-movies.json.zip), [movies_metadata.csv.zip](https://github.com/jbailey2705/Movies-ETL/files/9668536/movies_metadata.csv.zip), [ratings.csv](https://github.com/jbailey2705/Movies-ETL/files/9668631/ratings.csv)
+- Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, PostgreSQL 11.9, pgAdmin 4
 
-
+## Results with detail analysis:
