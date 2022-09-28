@@ -26,10 +26,12 @@ We've filtered out TV shows, consolidated the redundant data, removed duplicates
 ### Extract and Transform the Kaggle and rating data
 Consolidated redundant data, removed any duplicates, grouped & formatted the data. Kaggle & rating data were merged with the Wiki movies DataFrame
 
-![Screen Shot 2022-09-28 at 5 29 44 PM](https://user-images.githubusercontent.com/109354592/192899939-0198476a-ee9d-4e41-82c4-cc64b384c179.png)
-![Screen Shot 2022-09-28 at 5 40 18 PM](https://user-images.githubusercontent.com/109354592/192901223-55acaeaa-e652-40a9-b779-608a0f35608c.png)
+<img width="667" alt="Ratings_updated" src="https://user-images.githubusercontent.com/109354592/192901516-0c621388-1087-49fb-b5fd-02e06dbda7c0.png">
+![Scree<img width="663" alt="Movies_updated" src="https://user-images.githubusercontent.com/109354592/192901527-50e99cb6-0fd4-4e52-84e0-f79ac189b4e7.png"
 
+<img width="663" alt="Movies_updated" src="https://user-images.githubusercontent.com/109354592/192901554-89703f2f-3bb8-4ec4-9184-0a2723ba0c63.png">
 ![Screen Shot 2022-09-28 at 5 31 45 PM](https://user-images.githubusercontent.com/109354592/192900145-a9302691-8d86-4631-8234-fdfb06f1cb80.png)
 
-
+## Summary
+The ETL function collects & cleans movie data from different sources (Wikipedia JSON and Kaggle and ratings csv files). The function transforms & merges  data, loads it into two updatable PostgreSQL dataset tables (provided) ready to be used by the hackathon participants for analysis.
 
